@@ -1,7 +1,8 @@
-# ViralVibe-Landing-Page
-This is a landing page of a social media agency(i.e sample website). Created for web wizards event
+# React + Vite
 
-This Web-Page is created Using Vite+React(i.e React.js, JSX, CSS, JS)
-Please make sure installing all the dependencies while running on local machine(npm install)
-I used Some JavaScript to add some functionality to this website.
-As very less time is given LOGO is not created properly.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
